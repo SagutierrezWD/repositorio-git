@@ -1,3 +1,4 @@
 integrantes:
 sergio
 angel
+daniel
